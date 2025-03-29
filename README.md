@@ -1,6 +1,6 @@
 # Inteligencia artifical computacional
 
-Trabalho computavional AV1
+## Trabalho computavional AV1
 
 # Aplicação de Modelos de Aprendizado Supervisionado para Regressão e Classificação de Dados Biológicos
 ## Danilo Silva Pessoa de Araújo 
